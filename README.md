@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://scontent.fpnh10-1.fna.fbcdn.net/v/t39.30808-6/434808490_785437236981289_5826217270733088179_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEn3Y3Wk1VXfEXm1cg3RpoLeMg3NU4pZxx4yDc1TilnHBacgFy0g0ub7COdZC3dnmmzMpslVGi00Hk7pQi-RWbh&_nc_ohc=WpsVG7ERf7QQ7kNvgEqUW4g&_nc_ht=scontent.fpnh10-1.fna&oh=00_AYBvS8XGxzifWf4bNMsYr5glWYSu5fvy-vQgslys3kTJ4g&oe=66CC88AD" alt="Profile Image" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/u/121630407?s=400&u=5d3eedbba04f16136a66b4cebfb823ffc1335b19&v=4" alt="Profile Image" width="150" height="150">
 </p>
 
 <h1 align="center">👋 Hello, I'm SOK SEREYVISAL!</h1>
