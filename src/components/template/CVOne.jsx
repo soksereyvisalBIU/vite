@@ -1,8 +1,8 @@
-function CVOne({ firstName, lastName, company, phone, email, imagePreviewUrl }) {
+// function CVOne({ firstName, lastName, company, phone, email, imagePreviewUrl }) {
+const CVOne  = (props) => {
   return (
 
-    
-    
+
     <div className="text-gray-900 flex p-10 overflow-y-auto min-h-[100%]">
         
       {/* left side */}
@@ -11,8 +11,8 @@ function CVOne({ firstName, lastName, company, phone, email, imagePreviewUrl }) 
           <img
             className="rounded-full w-32 h-32 text-center"
             src={
-                imagePreviewUrl
-                  ? imagePreviewUrl
+                props.imagePreviewUrl
+                  ? props.imagePreviewUrl
                   : "https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png"
               }
           />
