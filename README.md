@@ -8,7 +8,7 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://github.com/yourgithubprofile">
+  <a href="https://github.com/soksereyvisalBIU">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Profile">
   </a>
   <a href="https://www.linkedin.com/in/sok-sereyvisal-3552712b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
