@@ -11,7 +11,7 @@
   <a href="https://github.com/yourgithubprofile">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/sok-sereyvisal-3552712b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="https://twitter.com/yourprofile">
@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/yourprofile">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Profile">
   </a>
-  <a href="https://www.facebook.com/yourprofile">
+  <a href="https://www.facebook.com/soksereyvisal85?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Profile">
   </a>
 </p>
