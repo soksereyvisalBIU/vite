@@ -20,7 +20,11 @@
   <a href="https://www.instagram.com/yourprofile">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Profile">
   </a>
+  <a href="https://www.facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Profile">
+  </a>
 </p>
+
 
 <!-- About Section -->
 ## 📝 About Me
